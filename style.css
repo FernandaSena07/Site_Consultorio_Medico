@@ -162,13 +162,11 @@ body.menu-expanded #navigation .logo path,
 /*=== NAVIGATION =================================*/
 nav {
   display: flex;
-
+  background-color: #b4e3ff;
   height: var(--nav-height);
-
   position: fixed;
   top: 0;
   width: 100vw;
-
   z-index: 100;
 }
 
